@@ -1,0 +1,148 @@
+
+body {
+    background-color: chocolate
+}
+
+img {
+    display: block;
+    height: 90%;
+    width: 90%;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+
+}
+
+.timer {
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    font-size: 30px;
+    
+}
+
+.title {
+    position: absolute;
+    top: 80px;
+    left: 35%;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+    
+}
+
+.firstQst {
+    position: absolute;
+    top: 250px;
+    left: 35%;
+    font-size: 25px;
+    
+}
+
+.radioBtn1 {
+   display: inline;
+    position: absolute;
+    top: 300px;
+    left: 35%;
+    font-size: 22px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.radioBtn2 {
+    display: inline;
+     position: absolute;
+     top: 300px;
+     left: 50%;
+     font-size: 22px;
+ 
+ }
+
+ .radioBtn3 {
+    display: inline;
+     position: absolute;
+     top: 300px;
+     left: 65%;
+     font-size: 22px;
+ 
+ }
+
+.secondQst {
+    position: absolute;
+    top: 400px;
+    left: 35%;
+    font-size: 25px;
+    
+}
+
+.radioBtn4 {
+    display: inline;
+     position: absolute;
+     top: 450px;
+     left: 35%;
+     font-size: 22px;
+ 
+ }
+ 
+ .radioBtn5 {
+     display: inline;
+      position: absolute;
+      top: 450px;
+      left: 50%;
+      font-size: 22px;
+  
+  }
+ 
+  .radioBtn6 {
+     display: inline;
+      position: absolute;
+      top: 450px;
+      left: 65%;
+      font-size: 22px;
+  
+  }
+
+.thirdQst {
+    position: absolute;
+    top: 550px;
+    left: 35%;
+    font-size: 25px;
+    
+}
+.radioBtn7 {
+    display: inline;
+     position: absolute;
+     top: 600px;
+     left: 35%;
+     font-size: 22px;
+ 
+ }
+
+ .radioBtn8 {
+    display: inline;
+     position: absolute;
+     top: 600px;
+     left: 50%;
+     font-size: 22px;
+ 
+ }
+ .radioBtn9 {
+    display: inline;
+     position: absolute;
+     top: 600px;
+     left: 65%;
+     font-size: 22px;
+ 
+ }
+
+
